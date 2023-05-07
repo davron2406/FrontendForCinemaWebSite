@@ -1,0 +1,42 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.png",
+      "altimg": "plan",
+      "title": "Plan 'uSUAL'",
+      "descr": "skdnvjubvawufk vouwigfbcjv wpefggu oe halsdnviagfouaigewioj aljsdbvaoiughpowiefj sdvhgoeiaguajsdkbvaoiwepofi haovskvbciawrh",
+      "price": 10
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "altimg": "plan",
+      "title": "Plan 'Premium'",
+      "descr": "skdnvjubvawufk vouwigfbcjv wpefggu oe halsdnviagfouaigewioj aljsdbvaoiughpowiefj sdvhgoeiaguajsdkbvaoiwepofi haovskvbciawrh",
+      "price": 20
+    },
+    {
+      "img": "img/tabs/3.jpg",
+      "altimg": "plan",
+      "title": "Plan 'Vip'",
+      "descr": "skdnvjubvawufk vouwigfbcjv wpefggu oe halsdnviagfouaigewioj aljsdbvaoiughpowiefj sdvhgoeiaguajsdkbvaoiwepofi haovskvbciawrh",
+      "price": 30
+    }
+  ],
+  "request": [
+    {
+      "name": "Davron",
+      "phone": "944288899",
+      "id": 2
+    },
+    {
+      "name": "Davron",
+      "phone": "944288899",
+      "id": 3
+    },
+    {
+      "name": "Davron",
+      "phone": "944288899",
+      "id": 4
+    }
+  ]
+}
